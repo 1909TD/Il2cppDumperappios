@@ -5,7 +5,7 @@
 Chỉ cung cấp file IPA để cài đặt và sử dụng ứng dụng.  
 Không chia sẻ mã nguồn.
 
-![Main Screen](docs/images/01-main.png)
+![Main Screen](docs/images/LOGO.png)
 
 </div>
 
