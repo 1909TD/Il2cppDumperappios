@@ -2,8 +2,7 @@
 
 # IL2CPP Dumper – IPA 
 
-Chỉ cung cấp file IPA để cài đặt và sử dụng ứng dụng.  
-Không chia sẻ mã nguồn.
+
 
 ![Main Screen](docs/images/LOGO.png)
 
